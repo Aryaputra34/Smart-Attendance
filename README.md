@@ -1,5 +1,4 @@
 "# Smart-Attendance" 
-"# Smart-Attendance" 
 
 ```
 Server Side
