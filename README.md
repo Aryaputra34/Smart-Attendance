@@ -18,7 +18,7 @@ Sample Gathering using LabelIMG.py
 .
 ├── dataset/
 │   └── Class1/
-│       ├── class1.txt
+│       ├── classes.txt
 │       ├── image1.png
 │       └── image1.txt
 └── camera_resize.py
