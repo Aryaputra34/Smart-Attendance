@@ -15,7 +15,7 @@ Server Side
 └── presensi.yaml
 ```
 ```
-Sample Gathering
+Sample Gathering using LabelIMG.py
 .
 ├── dataset/
 │   └── Class1/
