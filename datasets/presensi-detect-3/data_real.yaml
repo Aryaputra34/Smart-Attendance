@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['2107421008_William Nison Manurung', '2107421011_Ilman Fuada Asror', '2107421012_Joko Prasetyo', '2107421030_Aryaputra Maheswara']
+
+roboflow:
+  workspace: belajar-zwwri
+  project: presensi-detect-2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/belajar-zwwri/presensi-detect-2/dataset/1
